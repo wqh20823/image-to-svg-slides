@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片PPT与可编辑SVG"
+  short_description: "从内容提示词生成图片版幻灯片，再精细重建为分层、可编辑的矢量SVG"
+  default_prompt: "使用 $image-to-svg-slides，按照我的材料和参考风格编写提示词，调用 image 工具生成图片版幻灯片，再重建为可编辑 SVG，并检查排版与还原效果。"
